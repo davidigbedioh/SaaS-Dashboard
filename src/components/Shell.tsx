@@ -76,9 +76,9 @@ export default function Shell({ children }: Props) {
         <main className="panel main" aria-label="Main content">
           <header className="panel topbar">
             <div className="titleRow">
-              <div className="kicker">Premium SaaS</div>
+              <div className="kicker">Tealeats</div>
               <h1 className="h1">{pageTitle}</h1>
-              <div className="sub">Dark, fast, and built like a real product interface.</div>
+              <div className="sub">Eat. laugh. teal</div>
             </div>
 
             <div className="searchRow">
